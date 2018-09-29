@@ -29,4 +29,4 @@ async def minecraft (ctx):
     embed.set_footer(text="Made by iBoy21™#8792")
     await bot.send_message(ctx.message.author, embed=embed)
 
-bot.run('NDk0OTA2MjI4OTk3MjI2NTA4.Do6Vmg.dx7VtZgpGdugLIXIhyYgI93U6QI')
+bot.run('NDk0OTA2MjI4OTk3MjI2NTA4.DpDTpw.o29ZctZ8K9wz7oaSsOAkDT9jvOA')
